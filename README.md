@@ -1,4 +1,4 @@
-### Oi! Eu sou a Nicole Souza
+### Oi! Eu sou a Nicole Souza, estudante de Banco de Dados pela FATEC.
 
 <div align="center">
   <a href="https://github.com/NicSouza">
@@ -9,7 +9,6 @@
   <img align="center" alt="Nic-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img align="center" alt="Nic-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="Nic-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Nic-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="Nic-pic" src="https://user-images.githubusercontent.com/108769169/186455117-d4bedc69-ba0d-4222-a99c-c65059af074d.gif"
 </div>
 
