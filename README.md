@@ -15,7 +15,7 @@
 
 <div align="center"  
      
-![](https://komarev.com/ghpvc/?username=nicsouza&color=blueviolet&style=for-the-badge) 
+![](https://komarev.com/ghpvc/?username=nicsouza&color=ff69b4&style=for-the-badge) 
  
   
 #  Currently learning:
