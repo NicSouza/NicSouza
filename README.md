@@ -4,6 +4,12 @@
 </div>
  
 ## 
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img alt="Minhas Conquistas" src="https://github-profile-trophy.vercel.app/?username=nicsouza&theme=alduin"/>
+  </a>
+</p>
  
 <div align="center">
   <a href="https://github.com/NicSouza">
